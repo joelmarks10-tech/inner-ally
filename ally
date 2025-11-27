@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inner Ally</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f8fafc;
+      color: #222;
+      display: flex;
+      flex-direction: column;
+      align-items: centre;
+      justify-content: centre;
+      height: 100vh;
+      text-align: centre;
+    }
+    a {
+      display: inline-block;
+      padding: 12px 24px;
+      background: #5c7cfa;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Inner Ally</h2>
+  <p>Take a moment to pause, then open your affirmation.</p>
+  <a href="https://chatgpt.com/g/g-69286d112d6c8191ba68b8a861c16b7b-inner-ally" target="_blank">
+    Open Inner Ally
+  </a>
+</body>
+</html>
